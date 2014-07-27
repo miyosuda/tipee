@@ -36,13 +36,9 @@ SPP(シリアル通信)サービスをチャンネル22で追加. また'pi'と�
 http://loops.at.webry.info/201404/article_2.html を参考にした.
     
 ## フォント設定
-http://d.hatena.ne.jp/itouhiro/20120226
-より丸文字フォント、rounded-mplus-2c-bold.ttf を取得.
-/usr/share/fonts/truetype/
-以下に
-rounded ディレクトリを作成し，中に
-rounded-mplus-2c-bold.ttf
-を配置
+http://d.hatena.ne.jp/itouhiro/20120226 より丸文字フォント、rounded-mplus-2c-bold.ttf を取得.
+
+/usr/share/fonts/truetype/ 以下に rounded ディレクトリを作成し，中に rounded-mplus-2c-bold.ttf を配置
 
     $ fc-cache -f -v
 
