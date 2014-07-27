@@ -56,6 +56,19 @@ rounded-mplus-2c-bold.ttf
 上記を設定. 解像度を848x480に変更.
 リブート (sudo reboot)
 
+### ペアリング
+
+Nexus5側のBluetooth設定画面で「ペアに設定したデバイスのみに変更」の設定を「周辺のすべてのBluetoothデバイスに表示」とする.
+
+Raspberry pi側で
+
+    $ hcitool scan
+
+でスキャンして、Nexus5を探してリストアップしペアリング.
+
+    $ hciconfig -a
+
+で、Raspberry PI側のBluetoothアドレスが判るので、これをデモ時はAndroid側のソース内で直指定して接続した.
 
 
 
