@@ -17,7 +17,7 @@ Camp Hack Day 2014 "喋るテントTipee" ソース
 ## ライブラリインストール
 Bluetoothツール,ライブラリインストール
 
-    $ apt-get install -y bluetooth bluez-utils blueman libbluetooth-dev libgtk-3-dev
+    $ apt-get install -y bluetooth bluez-utils blueman libbluetooth-dev
 
 GTKインストール
 
