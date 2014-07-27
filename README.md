@@ -24,11 +24,16 @@ GTKインストール
     $ apt-get install -y libgtk-3-dev
 
 ## Bluetooth設定
-/etc/rc.local に下記追加して起動時にBluetooth Channel22で SPPに. スキャン可能に設定.
+/etc/rc.local に下記追加して起動時にBluetoothの設定が自動で走る様に.
+
+SPP(シリアル通信)サービスをチャンネル22で追加. また'pi'という名前でスキャン可能に設定.
 
     sdptool add --channel=22 SP
     hciconfig hci0 piscan
     hciconfig hci0 name ‘pi’
+    
+    
+http://loops.at.webry.info/201404/article_2.html を参考にした.
     
 ## フォント設定
 http://d.hatena.ne.jp/itouhiro/20120226
