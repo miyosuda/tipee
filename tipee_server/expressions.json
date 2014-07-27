@@ -1,0 +1,124 @@
+[
+	{
+		"name" : "idle",
+		"id" : 0,
+		"frames" : [
+			{ "time":0.0, "brow":0, "eye":0, "mouth":0 },
+			{ "time":0.5, "brow":0, "eye":2, "mouth":0 },
+			{ "time":0.6, "brow":0, "eye":0, "mouth":0 },
+			{ "time":2.0, "brow":0, "eye":0, "mouth":0 }
+		]
+	},
+	{
+		"name" : "talk_normal",
+		"id" : 1,
+		"frames" : [
+			{ "time":0.1, "brow":1, "eye":0, "mouth":7 },
+			{ "time":0.4, "brow":1, "eye":2, "mouth":1 },
+			{ "time":0.5, "brow":1, "eye":0, "mouth":1 },
+			{ "time":0.6, "brow":1, "eye":0, "mouth":2 },
+			{ "time":1.0, "brow":1, "eye":0, "mouth":7 },
+			{ "time":1.2, "brow":1, "eye":0, "mouth":2 },
+			{ "time":1.4, "brow":1, "eye":0, "mouth":1 },
+			{ "time":1.8, "brow":1, "eye":0, "mouth":2 },
+			{ "time":1.9, "brow":1, "eye":0, "mouth":1 },
+			{ "time":2.0, "brow":1, "eye":0, "mouth":2 }
+		]
+	},
+	{
+		"name" : "talk_sad",
+		"id" : 2,
+		"frames" : [
+			{ "time":0.1, "brow":2, "eye":0, "mouth":5 },
+			{ "time":0.4, "brow":2, "eye":2, "mouth":7 },
+			{ "time":0.5, "brow":2, "eye":0, "mouth":5 },
+			{ "time":0.6, "brow":2, "eye":0, "mouth":7 },
+			{ "time":1.0, "brow":2, "eye":0, "mouth":5 },
+			{ "time":1.2, "brow":2, "eye":0, "mouth":7 },
+			{ "time":1.4, "brow":2, "eye":0, "mouth":5 },
+			{ "time":1.8, "brow":2, "eye":0, "mouth":7 },
+			{ "time":1.9, "brow":2, "eye":0, "mouth":5 },
+			{ "time":2.0, "brow":2, "eye":0, "mouth":7 }
+		]
+	},
+	{
+		"name" : "talk_angry",
+		"id" : 3,
+		"frames" : [
+			{ "time":0.1, "brow":1, "eye":3, "mouth":8 },
+			{ "time":0.4, "brow":1, "eye":3, "mouth":4 },
+			{ "time":0.5, "brow":1, "eye":3, "mouth":8 },
+			{ "time":0.6, "brow":1, "eye":3, "mouth":4 },
+			{ "time":1.0, "brow":1, "eye":3, "mouth":8 },
+			{ "time":1.2, "brow":1, "eye":3, "mouth":4 },
+			{ "time":1.4, "brow":1, "eye":3, "mouth":8 },
+			{ "time":1.8, "brow":1, "eye":3, "mouth":4 },
+			{ "time":1.9, "brow":1, "eye":3, "mouth":8 },
+			{ "time":2.0, "brow":1, "eye":3, "mouth":4 }
+		]
+	},
+	{
+		"name" : "kyoton",
+		"id" : 4,
+		"frames" : [
+			{ "time":0.0, "brow":0, "eye":0, "mouth":3 },
+			{ "time":0.1, "brow":0, "eye":2, "mouth":3 },
+			{ "time":0.2, "brow":0, "eye":0, "mouth":3 },
+			{ "time":2.0, "brow":0, "eye":0, "mouth":3 },
+			{ "time":2.1, "brow":0, "eye":2, "mouth":3 },
+			{ "time":2.2, "brow":0, "eye":0, "mouth":3 },
+			{ "time":2.3, "brow":0, "eye":2, "mouth":3 },
+			{ "time":2.4, "brow":0, "eye":0, "mouth":3 },
+			{ "time":4.0, "brow":0, "eye":0, "mouth":3 }
+		]
+	},
+	{
+		"name" : "wao",
+		"id" : 5,
+		"frames" : [
+			{ "time":0.0, "brow":3, "eye":3, "mouth":7 },
+			{ "time":0.1, "brow":3, "eye":2, "mouth":7 },
+			{ "time":0.2, "brow":3, "eye":3, "mouth":7 },
+			{ "time":2.0, "brow":3, "eye":3, "mouth":7 },
+			{ "time":2.1, "brow":3, "eye":2, "mouth":7 },
+			{ "time":2.2, "brow":3, "eye":3, "mouth":7 },
+			{ "time":2.3, "brow":3, "eye":2, "mouth":7 },
+			{ "time":2.4, "brow":3, "eye":3, "mouth":7 },
+			{ "time":4.0, "brow":3, "eye":3, "mouth":7 }
+		]
+	},
+	{
+		"name" : "wink",
+		"id" : 6,
+		"frames" : [
+			{ "time":0.0, "brow":0, "eye":5, "mouth":0 },
+			{ "time":4.0, "brow":0, "eye":5, "mouth":0 }
+		]
+	},
+	{
+		"name" : "delight",
+		"id" : 7,
+		"frames" : [
+			{ "time":0.0, "brow":1, "eye":3, "mouth":1, "star":true },
+			{ "time":0.5, "brow":1, "eye":2, "mouth":1, "star":true },
+			{ "time":0.6, "brow":1, "eye":3, "mouth":1, "star":true },
+			{ "time":2.0, "brow":1, "eye":3, "mouth":1, "star":true }
+		]
+	},
+	{
+		"name" : "niyaniya",
+		"id" : 8,
+		"frames" : [
+			{ "time":0.0, "brow":2, "eye":4, "mouth":3 },
+			{ "time":4.0, "brow":2, "eye":4, "mouth":3 }
+		]
+	},
+	{
+		"name" : "jii",
+		"id" : 9,
+		"frames" : [
+			{ "time":0.0, "brow":4, "eye":6, "mouth":4 },
+			{ "time":4.0, "brow":4, "eye":6, "mouth":4 }
+		]
+	}
+]

@@ -1,0 +1,28 @@
+各画像の配置位置メモ
+
+brow 
+	size w:408 h:92
+	x:52 y:55
+
+eye
+	size w:408 h:95
+	x:52 y:178
+
+mouth
+	size w:222 h:133
+	x:145 y:311 
+
+
+cheek
+	size w:393 h:61
+
+	左 x:64 y:254
+	右 x336: y:254
+
+heart
+	size w:60 h:49
+	x:156 y:334
+
+star
+	size w:448 h:143
+	x:39 y:156
