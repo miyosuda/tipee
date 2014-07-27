@@ -65,11 +65,7 @@ Raspberry pi側で
 
     $ hcitool scan
 
-でスキャンして、Nexus5のアドレスを探す.
-
-    $ sudo bluez-simple-agent hci0 BDアドレス
-
-でペアリング
+でスキャンして、Nexus5のアドレスを探してペアリング.
 
 Raspberry PI側のBluetoothアドレスが
 
