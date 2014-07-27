@@ -64,11 +64,17 @@ Raspberry pi側で
 
     $ hcitool scan
 
-でスキャンして、Nexus5を探してリストアップしペアリング.
+でスキャンして、Nexus5のアドレスを探す.
+
+    $ sudo bluez-simple-agent hci0 BDアドレス
+
+でペアリング
+
+Raspberry PI側のBluetoothアドレスが
 
     $ hciconfig -a
 
-で、Raspberry PI側のBluetoothアドレスが判るので、これをデモ時はAndroid側のソース内で直指定して接続した.
+で判るので、これをデモ時はAndroid側のソース内で直指定して接続した.
 
 
 
