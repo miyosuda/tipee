@@ -1,7 +1,8 @@
 tipee
 =====
-
 Camp Hack Day 2014 "喋るテントTipee" ソース
+
+![image](http://o.aolcdn.com/hss/storage/midas/db74a6bea2e7bf80a0ff7920b5ef13a/200530056/DSC_0621.JPG)
 
 # 動作環境
 サーバ環境
